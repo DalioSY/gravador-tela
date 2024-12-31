@@ -1,4 +1,4 @@
-# Link Tree
+# Gravador de Tela
 
 Gravador-Tela é um projeto simples e funcional para gravar a tela do seu computador de maneira prática e direta. O objetivo é proporcionar uma solução intuitiva e acessível para quem precisa capturar vídeos da tela.
 
@@ -17,7 +17,7 @@ Gravador-Tela é um projeto simples e funcional para gravar a tela do seu comput
 
 Este projeto foi desenvolvido para facilitar a gravação de tela com uma interface simples e de fácil uso. Ideal para capturar apresentações, tutoriais ou qualquer atividade na tela de maneira eficiente e rápida.
 
-[Link Tree](https://github.com/DalioSY/gravador-tela)
+[Gravador-Tela](https://github.com/DalioSY/gravador-tela)
 
 ## Imagens
 
