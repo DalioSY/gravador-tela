@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', serif;
+}
+
+:root {
+  --bg: #222;
+  --color: #fff;
+  --border: #f3f2ef;
+}
+
+.light:root {
+  --bg: #f3f2ef;
+  --color: #000;
+  --border: #222;
+}
+
+body {
+  background-color: var(--bg);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+main {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 16px;
+}
+
+h1 {
+  color: var(--color);
+}
+
+i {
+  color: var(--color);
+  font-size: 40px;
+  cursor: pointer;
+  &:active {
+    scale: 0.9;
+  }
+}
+
+.bx-play-circle:focus {
+  color: red;
+}
