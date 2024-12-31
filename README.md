@@ -38,7 +38,7 @@ Aqui estão algumas imagens do projeto:
 
 - HTML
 - CSS
-  -JavaScript
+- JavaScript
 
 ## Começando
 
